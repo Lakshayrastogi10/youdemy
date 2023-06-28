@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Lakshayrastogi10.github.io/youdemy",
   "name": "youdemy",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +20,7 @@
     "react-firebase-hooks": "^3.0.4",
     "react-player": "^2.9.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^1.1.5",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^1.0.1",
     "webpack": "^5.88.0"
   },
